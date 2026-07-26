@@ -1,2 +1,1 @@
-# py4e
-Python for everyone 
+# Python for everyone 
