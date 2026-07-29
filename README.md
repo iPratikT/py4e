@@ -36,3 +36,8 @@ This is a brand new project for learning the language.
 <br> functionsonstrings.py
 
 # Chapter 3: Lists and Tuples
+
+<br> lists are mutable -> values can be modified, changed, etc
+<br> tuples are immutable, just like strings
+
+# Chapter 4: Dictionaries and Set
