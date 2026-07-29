@@ -28,3 +28,11 @@ This is a brand new project for learning the language.
 <br> file name: simplify.py
 
 # Chapter 2: Strings and conditional statements
+
+<br> here we first deal with the basic operations we perform on strings
+<br> file name: stringoperations.py
+
+<br> there are also a few functions we use on strings
+<br> functionsonstrings.py
+
+# Chapter 3: Lists and Tuples
