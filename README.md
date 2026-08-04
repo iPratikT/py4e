@@ -41,3 +41,31 @@ This is a brand new project for learning the language.
 <br> tuples are immutable, just like strings
 
 # Chapter 4: Dictionaries and Set
+
+<br> Dictionaries are used for storing data in the form of key:value pair
+<br> they are unordered, mutable, and dont allow duplicate keys
+
+<br> set is a colletion of unordered items, but unlike dictionaries, it is mutable
+<br> each <b> <i> element </i> </b> must be unique -> elements are immutable
+<br> in a set, key = value, in reference to elements of a dictionary
+<br> we can store strings, integers, floating chars, boolean, tuples in a set
+<br> but we cannot store list or dictionaries because these can be mutated
+
+# Chapter 5: Loops
+
+<br> here we study while loop and for loop
+<br> within the while loop there are also <i> break </i> and  <i> continue </i> keywords
+
+<br> break: used to terminate the loop when encountered
+<br> continue: terminates the loop execution at the current iteration and continues at the next iteration
+
+<br> for loop is used for sequential traversal
+
+<br> within for loop we also use the range().
+<br> range function returns a sequence of numbers, staqrting with 0 by default
+<br> and increments by 1 (again, by default)
+<br> and stops at the specified number.
+<br> syntax is range(start,stop?,step?)
+
+<br> we also use <i> Pass </i> statement, which means, null statement that does nothing
+<br> it is used as a placeholder for future code
